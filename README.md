@@ -26,83 +26,8 @@ Each topic includes:
 
 ## 📚 Topics Covered
 
-### Real Analysis
+### **[Real Analysis](RealAnalysis/Main.md)** 
 Based on "Basic Analysis I: Introduction to Real Analysis" by Jiří Lebl
-
-- **[Chapter 1: Real Numbers](RealAnalysis/Real_Numbers.md)** *(Planned)*
-  - Construction of real numbers
-  - Completeness axiom
-  - Archimedean property
-  - Density of rationals
-
-- **[Chapter 2: Sequences and Series](RealAnalysis/Sequences_and_Series.md)** ✅
-  - Convergence and limits
-  - Monotone sequences and convergence theorems
-  - Cauchy sequences and completeness
-  - Limit superior and inferior
-  - Bolzano-Weierstrass theorem
-
-- **[Chapter 3: Continuous Functions](RealAnalysis/Continuous_Functions.md)** ✅
-  - Definition of continuity
-  - Properties of continuous functions
-  - Intermediate Value Theorem
-  - Extreme Value Theorem
-
-- **[Chapter 4: The Derivative](RealAnalysis/The_Derivative.md)** ✅
-  - Definition of the derivative
-  - Rules of differentiation (Product, Quotient, Chain Rule)
-  - Mean Value Theorem and its applications
-  - Taylor's Theorem and Taylor series
-  - Inverse Function Theorem
-
-- **[Chapter 5: The Riemann Integral](RealAnalysis/RiemanIntegral.md)** ✅
-  - Riemann integration
-  - Fundamental Theorem of Calculus
-  - Integration techniques
-  - Improper integrals
-
-- **[Chapter 6: Sequences of Functions](RealAnalysis/Sequences_of_Functions.md)** ✅
-  - Pointwise and uniform convergence
-  - Weierstrass M-test
-  - Power series
-  - Taylor series convergence
-
-- **[Chapter 7: Metric Spaces](RealAnalysis/Metric_spaces.md)** ✅
-  - Definition and examples
-  - Open and closed sets
-  - Continuity in metric spaces
-  - Compactness and connectedness
-
-### Planned Topics
-- **Linear Algebra**
-  - Vector spaces and linear transformations
-  - Eigenvalues and eigenvectors
-  - Diagonalization and Jordan forms
-  - Inner product spaces
-
-- **Abstract Algebra**
-  - Groups, rings, and fields
-  - Homomorphisms and isomorphisms
-  - Galois theory
-  - Module theory
-
-- **Topology**
-  - Metric spaces
-  - Topological spaces
-  - Connectedness and compactness
-  - Homotopy theory
-
-- **Complex Analysis**
-  - Complex functions and limits
-  - Cauchy-Riemann equations
-  - Cauchy's integral theorem
-  - Residue theory
-
-- **Functional Analysis**
-  - Banach and Hilbert spaces
-  - Linear operators
-  - Spectral theory
-  - Distribution theory
 
 ## 📁 Repository Structure
 
