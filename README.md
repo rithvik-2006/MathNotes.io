@@ -14,7 +14,9 @@ A comprehensive collection of revision notes covering Undergraduate and Postgrad
 
 ## 🎯 Overview
 
-This repository contains detailed revision notes organized by mathematical disciplines, designed to help students and researchers review and understand complex mathematical concepts. Each topic includes:
+This repository contains detailed revision notes organized by mathematical disciplines, designed to help students and researchers review and understand complex mathematical concepts. The Real Analysis section is based on "Basic Analysis I: Introduction to Real Analysis" by Jiří Lebl, providing comprehensive coverage of undergraduate real analysis topics.
+
+Each topic includes:
 
 - **Core Definitions**: Precise mathematical definitions with formal notation
 - **Key Theorems**: Important results with proof strategies and applications
@@ -25,31 +27,51 @@ This repository contains detailed revision notes organized by mathematical disci
 ## 📚 Topics Covered
 
 ### Real Analysis
-- **Sequences and Series**
+Based on "Basic Analysis I: Introduction to Real Analysis" by Jiří Lebl
+
+- **[Chapter 1: Real Numbers](RealAnalysis/Real_Numbers.md)** *(Planned)*
+  - Construction of real numbers
+  - Completeness axiom
+  - Archimedean property
+  - Density of rationals
+
+- **[Chapter 2: Sequences and Series](RealAnalysis/Sequences_and_Series.md)** ✅
   - Convergence and limits
   - Monotone sequences and convergence theorems
   - Cauchy sequences and completeness
   - Limit superior and inferior
   - Bolzano-Weierstrass theorem
 
-- **Continuity and Limits**
+- **[Chapter 3: Continuous Functions](RealAnalysis/Continuous_Functions.md)** ✅
   - Definition of continuity
   - Properties of continuous functions
   - Intermediate Value Theorem
   - Extreme Value Theorem
 
-- **Differentiation**
+- **[Chapter 4: The Derivative](RealAnalysis/The_Derivative.md)** ✅
   - Definition of the derivative
   - Rules of differentiation (Product, Quotient, Chain Rule)
   - Mean Value Theorem and its applications
   - Taylor's Theorem and Taylor series
   - Inverse Function Theorem
 
-- **Integration**
+- **[Chapter 5: The Riemann Integral](RealAnalysis/RiemanIntegral.md)** ✅
   - Riemann integration
   - Fundamental Theorem of Calculus
   - Integration techniques
   - Improper integrals
+
+- **[Chapter 6: Sequences of Functions](RealAnalysis/Sequences_of_Functions.md)** ✅
+  - Pointwise and uniform convergence
+  - Weierstrass M-test
+  - Power series
+  - Taylor series convergence
+
+- **[Chapter 7: Metric Spaces](RealAnalysis/Metric_spaces.md)** ✅
+  - Definition and examples
+  - Open and closed sets
+  - Continuity in metric spaces
+  - Compactness and connectedness
 
 ### Planned Topics
 - **Linear Algebra**
@@ -87,14 +109,18 @@ This repository contains detailed revision notes organized by mathematical disci
 ```
 MathNotes/
 ├── RealAnalysis/
-│   ├── Chapter2.md          # Sequences and Series
-│   ├── Chapter3.md          # Continuity and Limits
-│   └── Chapter4.md          # Differentiation and Applications
-├── LinearAlgebra/           # (Planned)
-├── AbstractAlgebra/         # (Planned)
-├── Topology/               # (Planned)
-├── ComplexAnalysis/        # (Planned)
-├── FunctionalAnalysis/     # (Planned)
+│   ├── Main.md                     # Book overview and chapter links
+│   ├── Sequences_and_Series.md     # Chapter 2: Sequences and Series
+│   ├── Continuous_Functions.md     # Chapter 3: Continuous Functions
+│   ├── The_Derivative.md           # Chapter 4: The Derivative
+│   ├── RiemanIntegral.md           # Chapter 5: The Riemann Integral
+│   ├── Sequences_of_Functions.md   # Chapter 6: Sequences of Functions
+│   └── Metric_spaces.md            # Chapter 7: Metric Spaces
+├── LinearAlgebra/                  # (Planned)
+├── AbstractAlgebra/                # (Planned)
+├── Topology/                      # (Planned)
+├── ComplexAnalysis/               # (Planned)
+├── FunctionalAnalysis/            # (Planned)
 └── README.md
 ```
 
