@@ -1,4 +1,3 @@
-Here are detailed revision notes from Chapter 2 of the "TextBook.pdf", covering Sequences and Series:
 
 ### Chapter 2: Sequences and Series
 
@@ -152,6 +151,6 @@ This chapter introduces the fundamental concepts of sequences and series, which 
         *   The series diverges when $x < a-\rho$ or $x > a+\rho$.
         *   At the endpoints $x = a \pm \rho$, the series may converge or diverge.
     *   The radius of convergence $\rho$ can be computed from $R = \lim \sup_{n \to \infty} |c_n|^{1/n}$ as $\rho = 1/R$ (with special definitions for $R=0$ and $R=\infty$).
-    
+
     *   **Uniform Convergence of Power Series**: A power series converges **uniformly** on any closed interval $[a-r, a+r]$ whenever $0 < r < \rho$. This implies that the limit function of a power series is **continuous** within its interval of convergence.
     *   **Term-by-Term Integration and Differentiation**: Within its radius of convergence, a power series can be integrated and differentiated term by term, and the resulting series have the **same radius of convergence**.

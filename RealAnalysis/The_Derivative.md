@@ -1,5 +1,4 @@
-Here are detailed revision notes for Chapter 4 of the textbook, covering "The Derivative," "Mean Value Theorem," "Taylor’s Theorem," and "Inverse Function Theorem":
-
+### Chapter 4 : The Derivative
 ### 4.1 The Derivative
 
 *   **Definition of the Derivative**:
