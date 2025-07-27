@@ -1,5 +1,5 @@
 
-### 5 The Riemann Integral
+### Chapter 5 : The Riemann Integral
 
 This chapter focuses on defining and understanding the Riemann integral, often informally thought of as the "area under the curve". It introduces rigorous definitions for integrals, their properties, the fundamental theorem of calculus, and then uses these tools to formally define important functions like the logarithm and exponential, and to tackle improper integrals.
 

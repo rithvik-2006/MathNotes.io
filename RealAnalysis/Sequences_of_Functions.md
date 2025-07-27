@@ -1,6 +1,5 @@
-Here are revision notes on the requested topics, drawing on the provided sources:
 
-### 6 Sequences of Functions
+### Chapter 6 : Sequences of Functions
 
 *   Analysis largely revolves around taking limits. Up until Chapter 6, discussions focused on sequences of real numbers. However, a crucial concept in analysis is the **sequence of functions**, often used when solutions to differential equations are found as limits of approximate solutions.
 *   When dealing with sequences of functions, there are multiple notions of limits.
