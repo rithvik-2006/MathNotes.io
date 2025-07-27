@@ -6,8 +6,8 @@ The structure of the initial chapters aligns with the UIUC Math 444 syllabus and
 
 **Chapters:**
 
-  * [Chapter 0: Introduction]()
-  * [Chapter 1: Real Numbers]()
+  * [Chapter 0: Introduction](Introduction.md)
+  * [Chapter 1: Real Numbers](Real_Numbers.md)
   * [Chapter 2: Sequences and Series](Sequences_and_Series.md)
   * [Chapter 3: Continuous Functions](Continuous_Functions.md)
   * [Chapter 4: The Derivative](The_Derivative.md)
